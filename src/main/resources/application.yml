@@ -1,0 +1,7 @@
+spring:
+  data:
+    mongodb:
+      username: root
+      password: Felipe15
+      database: cities
+      authentication-database: admin
